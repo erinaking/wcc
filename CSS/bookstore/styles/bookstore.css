@@ -1,4 +1,5 @@
-/* Each books is in a section*/
+/* Each book is in a section*/
+/*Need to create better styles*/
 section {
     border:2px solid maroon;
     padding:5px;
@@ -19,7 +20,7 @@ section {
         font-family:Helvetica;
     }
 
-    .onSale {
+    .onSale {/*this is a very bright yellow-use sparingly*/
         background-color: yellow;
     }
 
